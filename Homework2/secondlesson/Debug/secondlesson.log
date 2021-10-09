@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\epam\Homework2\secondlesson\Source.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+  secondlesson.vcxproj -> C:\Users\User\Desktop\epam\Homework2\Debug\secondlesson.exe
