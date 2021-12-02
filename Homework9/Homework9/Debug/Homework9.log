@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\epam\Homework9\Homework9\Source.cpp(37,15): warning C4129: S: неизвестная escape-последовательность
+C:\Users\User\Desktop\epam\Homework9\Homework9\Source.cpp(102,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\epam\Homework9\Homework9\Source.cpp(124,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Homework9.vcxproj -> C:\Users\User\Desktop\epam\Homework9\Debug\Homework9.exe
