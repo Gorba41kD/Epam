@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\epam\Homework11\Homework11\Source.cpp(33,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\epam\Homework11\Homework11\Source.cpp(33,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\epam\Homework11\Homework11\Source.cpp(44,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\epam\Homework11\Homework11\Source.cpp(44,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Homework11.vcxproj -> C:\Users\User\Desktop\epam\Homework11\Debug\Homework11.exe
