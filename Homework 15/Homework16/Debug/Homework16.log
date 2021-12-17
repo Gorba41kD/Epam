@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\epam\Homework16\Homework16\Source.cpp(76,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\epam\Homework16\Homework16\Source.cpp(64,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\epam\Homework16\Homework16\Source.cpp(133): message : выполняется компиляция ссылки на экземпляр шаблон функции "void M_sort<int>(std::vector<int,std::allocator<int>> &)"
+C:\Users\User\Desktop\epam\Homework16\Homework16\Source.cpp(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\epam\Homework16\Homework16\Source.cpp(48,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\epam\Homework16\Homework16\Source.cpp(146): message : выполняется компиляция ссылки на экземпляр шаблон функции "void inserter_sort<int>(std::vector<int,std::allocator<int>> &)"
+  Homework16.vcxproj -> C:\Users\User\Desktop\epam\Homework16\Debug\Homework16.exe
